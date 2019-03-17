@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=DefDesign
+comment0.text=\r\n\ Features\ for\ a\ website\r\n\r\n\ @author\ Kaz\ Cogswell\r\n\ @version\ 3/11/2019\r\n
+comment1.params=price\ feat1\ feat2\ feat3\ feat4\ feat5
+comment1.target=DefDesign(int,\ int,\ int,\ int,\ int,\ int)
+comment2.params=
+comment2.target=int\ getBasePrice()
+comment3.params=
+comment3.target=int\ getFeat1()
+comment4.params=
+comment4.target=int\ getFeat2()
+comment5.params=
+comment5.target=int\ getFeat3()
+comment6.params=
+comment6.target=int\ getFeat4()
+comment7.params=
+comment7.target=int\ getFeat5()
+numComments=8

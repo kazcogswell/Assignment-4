@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Sale
+comment1.params=
+comment1.target=int\ setCustomNum()
+comment2.params=
+comment2.target=void\ displayPrices()
+comment3.params=designChoice
+comment3.target=void\ requestSale(int)
+comment4.params=featAmount
+comment4.target=void\ designFeatures(int)
+comment5.params=
+comment5.target=void\ printReciept()
+numComments=6
